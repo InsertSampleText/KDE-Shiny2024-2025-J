@@ -11,19 +11,19 @@ File Structure
   removeRequirements.R Program to remove requirements from computer
 
 Required Packages
-  # library(shiny)
-  # library(readxl)
-  # library (ks)
-  # library (rgl)
-  # library (misc3d)
-  # library (dplyr)
-  # library (htmlwidgets)
-  # library(ggplot2)
-  # library(pandoc)
-  # library(rjson)  
-  # library(shinyFiles)
-  # library(zip)
-  # library(shinyWidgets)
+  library(shiny)
+  library(readxl)
+  library (ks)
+  library (rgl)
+  library (misc3d)
+  library (dplyr)
+  library (htmlwidgets)
+  library(ggplot2)
+  library(pandoc)
+  library(rjson)  
+  library(shinyFiles)
+  library(zip)
+  library(shinyWidgets)
 
 Setting up the Program
   Download R and RStudio
